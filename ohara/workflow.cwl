@@ -1,4 +1,4 @@
-class: workflow
+class: Workflow
 cwlVersion: v1.0
 baseCommand: []
 
